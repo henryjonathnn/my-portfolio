@@ -1,6 +1,6 @@
 ## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=astro,tailwind&perline=7" />
+  <img src="https://skillicons.dev/icons?i=astro,tailwind,vite&perline=7" />
 </p>
 
 ## Visit My Website 
